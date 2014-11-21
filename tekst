@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿H2 Inleiding
 
+=======
+Inleiding
+>>>>>>> parent of 817c602... header toegevoegd
 Bij het werken met verschillende modellen die afkomstig zijn van verschillende partijen, is het belangrijk om een gezamenlijk nulpunt te gebruiken. Over het nulpunt en de oriëntatie van objecten zijn op veel verschillende manieren afspraken te maken. Vaak wordt een snijpunt van stramienen gekozen als nulpunt, maar soms ook het absolute nulpunt in Parijs (RD) of het nulpunt zoals gebruikelijk in de ontwerpapplicatie (WCS). 
 Het gaat mis wanneer onduidelijkheid ontstaat over het nulpunt en modellen daardoor niet goed gepositioneerd staan ten opzichte van elkaar. Ook gaan verschillende applicaties verschillend om met het nulpunt. Het nulpunt nabij Parijs (RD) is niet in alle applicaties een gemakkelijk hanteerbaar nulpunt. Verder kan een zo ver weg gelegen nulpunt in sommige gevallen ook voor behoorlijke maatafwijkingen zorgen.
 
