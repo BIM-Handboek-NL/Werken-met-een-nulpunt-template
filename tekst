@@ -8,7 +8,7 @@ Ook worden er in de hedendaagse praktijk nog altijd 2D documenten gebruikt, bijv
 
 Rotatie / orientatie
 
-Door het referentieobject te oriënteren op het werkelijke noorden en het model op het noorden zoals in de ontwerpapplicatie van toepassing, wordt het uitwisselen van modellen gemakkelijker. 
+Door het referentieobject te oriënteren op het werkelijke noorden en het model op het noorden zoals in de modelleerapplicatie van toepassing, wordt het uitwisselen van modellen gemakkelijker. 
 Een zonnestudie bijvoorbeeld, heeft het werkelijke noorden nodig voor oriëntatie van gevels. Een referentieobject dat georiënteerd is op het werkelijke noorden, is een hulpmiddel voor het waarborgen van deze informatie. Het draaien van het model aan de hand van het referentieobject, is een gemakkelijk hulpmiddel voor oriëntatie ten opzichte van het werkelijke noorden. 
 
 Het referentieobject als hulpmiddel in een verificatiemodel
