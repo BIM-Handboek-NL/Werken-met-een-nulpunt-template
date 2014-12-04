@@ -1,4 +1,4 @@
-Werken met een gezamelijk nulpunt
+Werken met een gezamenlijk nulpunt
 ===============================
 **aanspreekpunt:**
 
@@ -74,9 +74,9 @@ De geometrische kenmerken zijn duidelijk, verder kan er van alles aan toegevoegd
 ####Voorbeeld
 Als voorbeeld staan hieronder een tweetal simpele IFC modellen klaar om te downloaden. Als u deze bijvoorbeeld in uw eigen modelleersoftware of in een gratis viewer zoals Tekla BIMsight importeert kunt u zelf het herpositioneren van een model uitproberen. In alle modellen is een referentiekubus toegevoegd.
 
-[aspect model 1: dak](/voorbeeld/aspectmodel_1_dak.ifc)
-[aspect model 2: wanden, verkeerde positie](/voorbeeld/aspectmodel_2_wanden_verkeerd.ifc)
-[aspect model 2: wanden, goede positie](/voorbeeld/aspectmodel_2_wanden_goed.ifc)
+*[aspect model 1: dak](/voorbeeld/aspectmodel_1_dak.ifc)
+*[aspect model 2: wanden, verkeerde positie](/voorbeeld/aspectmodel_2_wanden_verkeerd.ifc)
+*[aspect model 2: wanden, goede positie](/voorbeeld/aspectmodel_2_wanden_goed.ifc)
 
 ----------
 
