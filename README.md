@@ -50,6 +50,7 @@ Verder heeft een kubus rechte vlakken. Wanneer de rechte vlakken van referentieo
 ###Herpositioneren van modellen met behulp van het referentieobject 
 ![verkeerde positionering](img/referentieobject11.jpg)
 ![gecorrigeerde positionering](img/referentieobject12.jpg)
+
 Het is mogelijk om modellen op de juiste plaats te zetten door de referentieobjecten op elkaar te plaatsen. Het gebruik van een eenvoudige vorm zoals een kubus maakt dit een gemakkelijke opgave.
 
 Door een referentieobject toe te passen, is men eenvoudig in staat om te beoordelen of de beoogde positie is bereikt. Wanneer ieder aspectmodel is voorzien van een referentieobject en deze objecten vallen precies over elkaar bij het samenvoegen, dan kan men er van uit gaan dat de oriëntatie en het nulpunt staat weergegeven zoals bedoeld door de modelleur.
