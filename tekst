@@ -71,6 +71,13 @@ Het referentieobject kan gebruikt worden als hulpmiddel voor maatvoering. Wannee
 ####Eigenschappen van het object
 De geometrische kenmerken zijn duidelijk, verder kan er van alles aan toegevoegd worden, zoals gegevens van de leverancier bijvoorbeeld. Eigenschappen die wel betrekking hebben op het model maar niet op de afzonderlijke objecten in dit model, kunnen aan het referentieobject worden toegevoegd. Ook kan bijvoorbeeld de contactgegevens van de desbetreffende modelleur worden toegevoegd of verwijzingen naar overige documenten zoals garantiebepalingen, et cetera. Ook kan er informatie toegevoegd worden die betrekking heeft op RD-coördinaten, zodat de positie van het object en daarmee tevens de positie van (gebouw)modellen ten opzichte van het nulpunt nabij Parijs is vastgelegd.
 
+####Voorbeeld
+Als voorbeeld staan hieronder een tweetal simpele IFC modellen klaar om te downloaden. Als u deze bijvoorbeeld in uw eigen modelleersoftware of in een gratis viewer zoals Tekla BIMsight importeert kunt u zelf het herpositioneren van een model uitproberen. In alle modellen is een referentiekubus toegevoegd.
+
+[aspect model 1: dak](/voorbeeld/aspectmodel_1_dak.ifc)
+[aspect model 2: wanden, verkeerde positie](/voorbeeld/aspectmodel_2_wanden_verkeerd.ifc)
+[aspect model 2: wanden, goede positie](/voorbeeld/aspectmodel_2_wanden_goed.ifc)
+
 ----------
 
 nu nog de softwarespecifieke dingen
