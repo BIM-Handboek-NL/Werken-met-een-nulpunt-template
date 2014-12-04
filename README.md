@@ -5,18 +5,22 @@ Marc Dankers / Mathijs Natrop
 marc@dankersslimmerbouwen.nl / natrop@solidu.nl
 
 **samenvatting:**
->-het referentieobject wordt gebruikt om aspectmodellen ten opzicht van elkaar te positioneren.
->-Ieder aspectmodel bevat het referentieobject
->-dit referentieobject wordt altijd mee geëxporteerd bij  modeluitwisseling
->-de vorm, afmeting, positie en oriëntatie van dit object wordt in onderlinge afstemming tijdens het eerste BIM-overleg vastgesteld
+ - het referentieobject wordt gebruikt om aspectmodellen ten opzichte van elkaar te positioneren. 
+ - Ieder aspectmodel bevat het referentieobject. Dit referentieobject wordt altijd mee geëxporteerd bij 
+   modeluitwisseling
+ - de vorm, afmeting, positie en oriëntatie van dit object wordt tijdens het eerste BIM-overleg vastgesteld
 
 **doelgroep:**
 Elke modelleur en projectmanager
 
 Deze pagina is een weergave van de open source ontwikkelomgeving op github. U kunt een bijdrage leveren door een ‘pull request’ te sturen op [github](https://github.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template), of het aanspreekpunt van deze pagina te benaderen via e-mail.
 
+----------
+
+
 ###Inleiding
-![samengevoegd model](img/ref03.jpg)Bij het werken met verschillende modellen die afkomstig zijn van verschillende partijen, is het belangrijk om een gezamenlijk nulpunt te gebruiken. Over het nulpunt en de oriëntatie van objecten zijn op veel verschillende manieren afspraken te maken. Vaak wordt een snijpunt van stramienen gekozen als nulpunt, maar soms ook het absolute nulpunt in Parijs (RD) of het nulpunt zoals gebruikelijk in de ontwerpapplicatie (WCS). 
+![samengevoegd model](img/ref03.jpg)
+Bij het werken met verschillende modellen die afkomstig zijn van verschillende partijen, is het belangrijk om een gezamenlijk nulpunt te gebruiken. Over het nulpunt en de oriëntatie van objecten zijn op veel verschillende manieren afspraken te maken. Vaak wordt een snijpunt van stramienen gekozen als nulpunt, maar soms ook het absolute nulpunt in Parijs (RD) of het nulpunt zoals gebruikelijk in de ontwerpapplicatie (WCS). 
 Het gaat mis wanneer onduidelijkheid ontstaat over het nulpunt en modellen daardoor niet goed gepositioneerd staan ten opzichte van elkaar. Ook gaan verschillende applicaties verschillend om met het nulpunt. Het nulpunt nabij Parijs (RD) is niet in alle applicaties een gemakkelijk hanteerbaar nulpunt. Verder kan een zo ver weg gelegen nulpunt in sommige gevallen ook voor behoorlijke maatafwijkingen zorgen.
 
 Een referentieobject is een hulpmiddel voor het gebruik van een gezamenlijk nulpunt en oriëntatie. Het is een fysiek object met een eenvoudige geometrie, dat in ieder aspectmodel staat. In het samengestelde gebouwmodel zijn de referentieobjecten zichtbaar, deze vallen precies over elkaar. Daarmee zijn de beoogde posities gewaarborgd. 
@@ -52,5 +56,7 @@ Het referentieobject kan gebruikt worden als hulpmiddel voor maatvoering. Wannee
 
 ####Eigenschappen van het object
 De geometrische kenmerken zijn duidelijk, verder kan er van alles aan toegevoegd worden, zoals gegevens van de leverancier bijvoorbeeld. Eigenschappen die wel betrekking hebben op het model maar niet op de afzonderlijke objecten in dit model, kunnen aan het referentieobject worden toegevoegd. Ook kan bijvoorbeeld de contactgegevens van de desbetreffende modelleur worden toegevoegd of verwijzingen naar overige documenten zoals garantiebepalingen, et cetera. Ook kan er informatie toegevoegd worden die betrekking heeft op RD-coördinaten, zodat de positie van het object en daarmee tevens de positie van (gebouw)modellen ten opzichte van het nulpunt nabij Parijs is vastgelegd.
+
+----------
 
 
