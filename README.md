@@ -23,7 +23,7 @@ Deze pagina is een weergave van de open source ontwikkelomgeving op github. U ku
 
 ###Inleiding
 
-![samengevoegd model](img/ref03.jpg)
+![samengevoegd model](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/ref03.jpg)
 
 Bij het werken met verschillende modellen die afkomstig zijn van verschillende partijen, is het belangrijk om een gezamenlijk nulpunt te gebruiken. Over het nulpunt en de orientatie van objecten zijn op veel verschillende manieren afspraken te maken. Vaak wordt een snijpunt van stramienen gekozen als nulpunt, maar soms ook het absolute nulpunt in Parijs (RD) of het nulpunt zoals gebruikelijk in de ontwerpapplicatie (WCS). 
 Het gaat mis wanneer onduidelijkheid ontstaat over het nulpunt en modellen daardoor niet goed gepositioneerd staan ten opzichte van elkaar. Ook gaan verschillende applicaties verschillend om met het nulpunt. Het nulpunt nabij Parijs (RD) is niet in alle applicaties een gemakkelijk hanteerbaar nulpunt. Verder kan een zo ver weg gelegen nulpunt in sommige gevallen ook voor behoorlijke maatafwijkingen zorgen.
@@ -38,18 +38,18 @@ Een zonnestudie bijvoorbeeld, heeft het werkelijke noorden nodig voor orientatie
 
 ###Het referentieobject als hulpmiddel in een verificatiemodel
 
-![referentieobject en model](img/referentie00.jpg)
+![referentieobject en model](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/referentie00.jpg)
 
 De positie van verschillende aspectmodellen ten opzichte van elkaar, zowel in het horizontale als in het verticale vlak, is een belangrijk gegeven. Wanneer dit niet goed gebeurt, heeft het beoordelen van de modellen in onderlinge relatie (clashdetectie) geen nut. In sommige gevallen lijkt het goed te gaan echter een klein verschil in z-waarde (verticaal), levert een veelvoud aan signaleringen of clashes.
 
-![referentieobject en model](img/ref04.jpg)
+![referentieobject en model](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/ref04.jpg)
 
 Het object is gemakkelijk te ontdekken en controleren als het ergens buiten het bouwwerk staat. Een eenvoudige geometrie, zoals bijvoorbeeld de kubus,  draagt tevens bij aan een gemakkelijke controle en maakt het mogelijk om eenvoudig modellen te verplaatsen. Dit is uiteraard niet gewenst maar in sommige gevallen, met name in relatie tot 2d-tekeningen, ontkomt men hier bijna niet aan. 
 Verder heeft een kubus rechte vlakken. Wanneer de rechte vlakken van referentieobjecten uit verschillende aspectmodellen precies over elkaar vallen, geeft dit een herkenbaar beeld in diverse software tools. Een klein verschil levert een groot verschil in verschijning.
 
 ###Herpositioneren van modellen met behulp van het referentieobject 
-![verkeerde positionering](img/referentieobject11.jpg)
-![gecorrigeerde positionering](img/referentieobject12.jpg)
+![verkeerde positionering](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/referentieobject11.jpg)
+![gecorrigeerde positionering](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/referentieobject12.jpg)
 
 Het is mogelijk om modellen op de juiste plaats te zetten door de referentieobjecten op elkaar te plaatsen. Het gebruik van een eenvoudige vorm zoals een kubus maakt dit een gemakkelijke opgave.
 
@@ -74,11 +74,11 @@ De geometrische kenmerken zijn duidelijk, verder kan er van alles aan toegevoegd
 ####Voorbeeld
 Als voorbeeld staan hieronder een tweetal simpele IFC modellen klaar om te downloaden. Als u deze bijvoorbeeld in uw eigen modelleersoftware of in een gratis viewer zoals Tekla BIMsight importeert kunt u zelf het herpositioneren van een model uitproberen. In alle modellen is een referentiekubus toegevoegd.
 
-*[aspect model 1: dak](/voorbeeld/aspectmodel_1_dak.ifc)
+*[aspect model 1: dak](https://github.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/blame/master/voorbeeld/aspectmodel_1_dak.ifc)
 
-*[aspect model 2: wanden, verkeerde positie](/voorbeeld/aspectmodel_2_wanden_verkeerd.ifc)
+*[aspect model 2: wanden, verkeerde positie](https://github.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/blame/master/voorbeeld/aspectmodel_2_wanden_verkeerd.ifc)
 
-*[aspect model 2: wanden, goede positie](/voorbeeld/aspectmodel_2_wanden_goed.ifc)
+*[aspect model 2: wanden, goede positie](https://github.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/blame/master/voorbeeld/aspectmodel_2_wanden_goed.ifc)
 
 ----------
 
