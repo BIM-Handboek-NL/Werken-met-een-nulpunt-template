@@ -8,15 +8,15 @@ marc@dankersslimmerbouwen.nl / natrop@solidu.nl
 **samenvatting:**
 
  - het referentieobject wordt gebruikt om aspectmodellen ten opzichte van elkaar te positioneren. 
- - Ieder aspectmodel bevat het referentieobject. Dit referentieobject wordt altijd mee geëxporteerd bij 
+ - Ieder aspectmodel bevat het referentieobject. Dit referentieobject wordt altijd mee geexporteerd bij 
    modeluitwisseling
- - de vorm, afmeting, positie en oriëntatie van dit object wordt tijdens het eerste BIM-overleg vastgesteld
+ - de vorm, afmeting, positie en orientatie van dit object wordt tijdens het eerste BIM-overleg vastgesteld
 
 **doelgroep:**
 
 Elke modelleur en projectmanager
 
-Deze pagina is een weergave van de open source ontwikkelomgeving op github. U kunt een bijdrage leveren door een ‘pull request’ te sturen op [github](https://github.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template), of het aanspreekpunt van deze pagina te benaderen via e-mail.
+Deze pagina is een weergave van de open source ontwikkelomgeving op github. U kunt een bijdrage leveren door een â€˜pull requestâ€™ te sturen op [github](https://github.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template), of het aanspreekpunt van deze pagina te benaderen via e-mail.
 
 ----------
 
@@ -25,16 +25,16 @@ Deze pagina is een weergave van de open source ontwikkelomgeving op github. U ku
 
 ![samengevoegd model](img/ref03.jpg)
 
-Bij het werken met verschillende modellen die afkomstig zijn van verschillende partijen, is het belangrijk om een gezamenlijk nulpunt te gebruiken. Over het nulpunt en de oriëntatie van objecten zijn op veel verschillende manieren afspraken te maken. Vaak wordt een snijpunt van stramienen gekozen als nulpunt, maar soms ook het absolute nulpunt in Parijs (RD) of het nulpunt zoals gebruikelijk in de ontwerpapplicatie (WCS). 
+Bij het werken met verschillende modellen die afkomstig zijn van verschillende partijen, is het belangrijk om een gezamenlijk nulpunt te gebruiken. Over het nulpunt en de orientatie van objecten zijn op veel verschillende manieren afspraken te maken. Vaak wordt een snijpunt van stramienen gekozen als nulpunt, maar soms ook het absolute nulpunt in Parijs (RD) of het nulpunt zoals gebruikelijk in de ontwerpapplicatie (WCS). 
 Het gaat mis wanneer onduidelijkheid ontstaat over het nulpunt en modellen daardoor niet goed gepositioneerd staan ten opzichte van elkaar. Ook gaan verschillende applicaties verschillend om met het nulpunt. Het nulpunt nabij Parijs (RD) is niet in alle applicaties een gemakkelijk hanteerbaar nulpunt. Verder kan een zo ver weg gelegen nulpunt in sommige gevallen ook voor behoorlijke maatafwijkingen zorgen.
 
-Een referentieobject is een hulpmiddel voor het gebruik van een gezamenlijk nulpunt en oriëntatie. Het is een fysiek object met een eenvoudige geometrie, dat in ieder aspectmodel staat. In het samengestelde gebouwmodel zijn de referentieobjecten zichtbaar, deze vallen precies over elkaar. Daarmee zijn de beoogde posities gewaarborgd. 
+Een referentieobject is een hulpmiddel voor het gebruik van een gezamenlijk nulpunt en orientatie. Het is een fysiek object met een eenvoudige geometrie, dat in ieder aspectmodel staat. In het samengestelde gebouwmodel zijn de referentieobjecten zichtbaar, deze vallen precies over elkaar. Daarmee zijn de beoogde posities gewaarborgd. 
 
-Ook worden er in de hedendaagse praktijk nog altijd 2D documenten gebruikt, bijvoorbeeld een onderlegger van de situatie of een tekening van een partij die (nog) niet modelleert. De oriëntatie van een dergelijke informatie ten opzichte van het gebouwmodel, kan een enorme uitdaging vormen. De oplossing lijkt hier het toevoegen van stramienlijnen maar dit is niet altijd wenselijk, denk aan een situatietekening bijvoorbeeld. Door slim gebruik te maken van het referentieobject kan het ook in 2D de functie van stramienlijnen overnemen. Wanneer bijvoorbeeld alleen het referentieobject in een situatie wordt gepositioneerd, dan kan dit de oriëntatie en positionering van verschillende documenten waarborgen. Het referentieobject is dus ook een hulpmiddel om 2D informatie te positioneren, zowel in een 2D- als 3D-omgeving.
+Ook worden er in de hedendaagse praktijk nog altijd 2D documenten gebruikt, bijvoorbeeld een onderlegger van de situatie of een tekening van een partij die (nog) niet modelleert. De orientatie van een dergelijke informatie ten opzichte van het gebouwmodel, kan een enorme uitdaging vormen. De oplossing lijkt hier het toevoegen van stramienlijnen maar dit is niet altijd wenselijk, denk aan een situatietekening bijvoorbeeld. Door slim gebruik te maken van het referentieobject kan het ook in 2D de functie van stramienlijnen overnemen. Wanneer bijvoorbeeld alleen het referentieobject in een situatie wordt gepositioneerd, dan kan dit de orientatie en positionering van verschillende documenten waarborgen. Het referentieobject is dus ook een hulpmiddel om 2D informatie te positioneren, zowel in een 2D- als 3D-omgeving.
 
 ###Rotatie / orientatie
-Door het referentieobject te oriënteren op het werkelijke noorden en het model op het noorden zoals in de ontwerpapplicatie van toepassing, wordt het uitwisselen van modellen gemakkelijker. 
-Een zonnestudie bijvoorbeeld, heeft het werkelijke noorden nodig voor oriëntatie van gevels. Een referentieobject dat georiënteerd is op het werkelijke noorden, is een hulpmiddel voor het waarborgen van deze informatie. Het draaien van het model aan de hand van het referentieobject, is een gemakkelijk hulpmiddel voor oriëntatie ten opzichte van het werkelijke noorden. 
+Door het referentieobject te orienteren op het werkelijke noorden en het model op het noorden zoals in de ontwerpapplicatie van toepassing, wordt het uitwisselen van modellen gemakkelijker. 
+Een zonnestudie bijvoorbeeld, heeft het werkelijke noorden nodig voor orientatie van gevels. Een referentieobject dat georienteerd is op het werkelijke noorden, is een hulpmiddel voor het waarborgen van deze informatie. Het draaien van het model aan de hand van het referentieobject, is een gemakkelijk hulpmiddel voor orientatie ten opzichte van het werkelijke noorden. 
 
 ###Het referentieobject als hulpmiddel in een verificatiemodel
 
@@ -53,7 +53,7 @@ Verder heeft een kubus rechte vlakken. Wanneer de rechte vlakken van referentieo
 
 Het is mogelijk om modellen op de juiste plaats te zetten door de referentieobjecten op elkaar te plaatsen. Het gebruik van een eenvoudige vorm zoals een kubus maakt dit een gemakkelijke opgave.
 
-Door een referentieobject toe te passen, is men eenvoudig in staat om te beoordelen of de beoogde positie is bereikt. Wanneer ieder aspectmodel is voorzien van een referentieobject en deze objecten vallen precies over elkaar bij het samenvoegen, dan kan men er van uit gaan dat de oriëntatie en het nulpunt staat weergegeven zoals bedoeld door de modelleur.
+Door een referentieobject toe te passen, is men eenvoudig in staat om te beoordelen of de beoogde positie is bereikt. Wanneer ieder aspectmodel is voorzien van een referentieobject en deze objecten vallen precies over elkaar bij het samenvoegen, dan kan men er van uit gaan dat de orientatie en het nulpunt staat weergegeven zoals bedoeld door de modelleur.
 
 ###Uitwisselen van het referentieobject
 Doordat huidige applicaties zeer veel mogelijkheden hebben op het gebied van het extraheren van informatie uit een native model (2D- en 3D-extracten), is het uitwisselen van het referentieobject geen obstakel. In de praktijk veel voorkomende bestandsformaten zijn; ifc, (3d-)dwg, dwf, etc.. Daarnaast is in sommige gevallen uitwisseling van native bestanden mogelijk.
@@ -61,15 +61,15 @@ Doordat huidige applicaties zeer veel mogelijkheden hebben op het gebied van het
 ###Toepassingen
 De kubus als referentieobject is al enige jaren in gebruik. Het is ontstaan om onduidelijkheden aangaande de relatie van het bouwwerk met de omgeving en de relatie tussen aspecten van het bouwwerk op te lossen. Wanneer het referentieobject wordt toegevoegd op een onderlegger die fungeert als situatietekening, is deze relatie eenvoudig te waarborgen.
 
-In de ontwerpsoftware kan het importeren van aspectmodellen nog wel eens een verschil in oriëntatie opleveren, met name in het horizontale vlak. Wanneer in een ontwerpsoftware de verschillende aspectmodellen als onderlegger dienen, is deze oriëntatie juist wel van belang. Wanneer het referentieobject eenmaal goed in de ontwerpsoftware staat, kan deze de resterende tijd fungeren als hulpmiddel voor de oriëntatie en nulpunt.
+In de ontwerpsoftware kan het importeren van aspectmodellen nog wel eens een verschil in orientatie opleveren, met name in het horizontale vlak. Wanneer in een ontwerpsoftware de verschillende aspectmodellen als onderlegger dienen, is deze orientatie juist wel van belang. Wanneer het referentieobject eenmaal goed in de ontwerpsoftware staat, kan deze de resterende tijd fungeren als hulpmiddel voor de orientatie en nulpunt.
 
-Vaak wordt de kubus als referentieobject gebruikt, een geometrisch object van 1 kubieke meter. De onderzijde van de kubus is Peil, de bovenzijde daarmee 1m+Peil. De kubus kan haaks op het noorden georiënteerd zijn, maar ook haaks aan een gevel, afhankelijk van de toepassing. Doordat de onderzijde op Peil staat, kan ook in diverse modelviewers van elk object van het bouwwerk de hoogte ten opzichte van Peil gemeten worden. 
+Vaak wordt de kubus als referentieobject gebruikt, een geometrisch object van 1 kubieke meter. De onderzijde van de kubus is Peil, de bovenzijde daarmee 1m+Peil. De kubus kan haaks op het noorden georienteerd zijn, maar ook haaks aan een gevel, afhankelijk van de toepassing. Doordat de onderzijde op Peil staat, kan ook in diverse modelviewers van elk object van het bouwwerk de hoogte ten opzichte van Peil gemeten worden. 
 
 ####Hulpmiddel voor het bepalen van de hoogte
 Het referentieobject kan gebruikt worden als hulpmiddel voor maatvoering. Wanneer de hoogte van een object bepaald moet worden, kan terug gemeten worden naar de onderzijde van de kubus (=Peil). Vooral wanneer in het model de bovenkant van de afgewerkte vloer op verschillende niveaus zit, is het referentieobject een baken.
 
 ####Eigenschappen van het object
-De geometrische kenmerken zijn duidelijk, verder kan er van alles aan toegevoegd worden, zoals gegevens van de leverancier bijvoorbeeld. Eigenschappen die wel betrekking hebben op het model maar niet op de afzonderlijke objecten in dit model, kunnen aan het referentieobject worden toegevoegd. Ook kan bijvoorbeeld de contactgegevens van de desbetreffende modelleur worden toegevoegd of verwijzingen naar overige documenten zoals garantiebepalingen, et cetera. Ook kan er informatie toegevoegd worden die betrekking heeft op RD-coördinaten, zodat de positie van het object en daarmee tevens de positie van (gebouw)modellen ten opzichte van het nulpunt nabij Parijs is vastgelegd.
+De geometrische kenmerken zijn duidelijk, verder kan er van alles aan toegevoegd worden, zoals gegevens van de leverancier bijvoorbeeld. Eigenschappen die wel betrekking hebben op het model maar niet op de afzonderlijke objecten in dit model, kunnen aan het referentieobject worden toegevoegd. Ook kan bijvoorbeeld de contactgegevens van de desbetreffende modelleur worden toegevoegd of verwijzingen naar overige documenten zoals garantiebepalingen, et cetera. Ook kan er informatie toegevoegd worden die betrekking heeft op RD-coÃ¶rdinaten, zodat de positie van het object en daarmee tevens de positie van (gebouw)modellen ten opzichte van het nulpunt nabij Parijs is vastgelegd.
 
 ####Voorbeeld
 Als voorbeeld staan hieronder een tweetal simpele IFC modellen klaar om te downloaden. Als u deze bijvoorbeeld in uw eigen modelleersoftware of in een gratis viewer zoals Tekla BIMsight importeert kunt u zelf het herpositioneren van een model uitproberen. In alle modellen is een referentiekubus toegevoegd.
