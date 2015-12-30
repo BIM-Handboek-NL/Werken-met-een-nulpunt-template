@@ -19,33 +19,33 @@ Deze pagina is een weergave van de open source ontwikkelomgeving op [github](htt
 
 Het symbool met drie assen (x, y en z) staat voor het lokale coördinatensysteem en geeft de richting van het model. Het is gelegen in de rechter benedenhoek van het model view . Het coördinatiesymbool volgt het werkvlak.
 
-![xyz](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla01.PNG)
+![xyz](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla01.png)
 
 **Oorsprong.**
 
 Het groene kubus symbool staat voor het globale assenstelsel en ligt op het globale punt van oorsprong (0,0,0).
 
-![nulpunt](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla02.PNG)
+![nulpunt](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla02.png)
 
 **basispunt model.**
 
 Kies voor het basispunt van het model een gemakkelijk herkenbare locatie. Bijvoorbeeld; het snijpunt van het raster as-1 en as-A en op een hoogte Peil. Dit punt is niet het referentiepunt. 
 
-![basispunt](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla03.PNG)
+![basispunt](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla03.png)
 
 **Referentiepunt model.**
 
 Het geniet de voorkeur om het referentiepunt van het model niet te laten samenvallen met het basispunt. Gebouwmodellen met veel elementen kunnen er voor zorgen dat het referentiepunt niet direct zichtbaar is.
 Kies voor het referentiepunt van het model een punt buiten het model. Bij voorkeur is dit punt het globale punt van oorsprong. (0,0,0) Het model met raster kan iets verderop gemodelleerd worden. Bijvoorbeeld; met basispunt de locatie 3000,3000,0. Door het referentiepunt buiten het gebouw te kiezen voorkom je de visuele vertroebeling van het globale punt van oorsprong. (0,0,0) 
 
-![referentiepunt](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla04.PNG)
+![referentiepunt](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla04.png)
 
 **Referentiemodellen.**
 
 Sommige modellering systemen werken op mondiale of nationale coördinatensystemen, terwijl anderen werken op een lokaal assenstelsel. De modellen gemaakt in systemen die niet voldoen aan de afgesproken assenstelsel dienen de waarden voor de translatievector mee te geven voor een juiste positionering in het integrale model. 
 Het afgesproken referentiepunt zou vastgelegd kunnen worden in een DWG-bestand, dat verstrekt wordt aan de betrokken partijen.
 
-![referentiemodellen](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla05.PNG)
+![referentiemodellen](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/tekla05.png)
 
 **Referentieblok.**
 
