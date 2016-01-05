@@ -15,7 +15,7 @@ Deze pagina is een weergave van de open source ontwikkelomgeving op [github](htt
  
 -----------
 
-*Tip: Zorg dat je voor je begint met modelleren weet waar je nulpunt is, zodat je op een logische plek ten opzicht van het nulpunt kunt starten. Een logische positie voor 0,0,0 WCS is ook stramien A-1, dan blijf je ook altijd in + coordinaten. Het referentieobject staat dan -10,-10,Peil*
+>Tip: Zorg dat je voor je begint met modelleren weet waar je nulpunt is, zodat je op een logische plek ten opzicht van het nulpunt kunt starten. Een logische positie voor 0,0,0 WCS is bijvoorbeeld het snijpunt van stramien A en 1. Het referentieobject staat dan -10,-10,Peil
 
 In Archicad wordt het project-nulpunt bij export ook het nulpunt van de IFC. Hieraan is verder niets in te stellen. Om dit nulpunt te indentificeren is het op de onderstaande plaatjes weergegeven in 2d op plattegrondweergave en in 3D.
 
@@ -30,7 +30,8 @@ Options/Project Preferences/Project Location is de plek waar de hoogte t.o.v. NA
 
 ![project location](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/archicad_project_location.PNG)
  
-*Let op: om een of andere reden staat in de standaardtemplate die in Nederland met Archicad wordt meegeleverd de hoogte van peil op 20m +NAP. Stel dit bij in uw eigen template!*
+>Let op: In de standaardtemplate die in Nederland met Archicad wordt meegeleverd staat de hoogte van peil op 20m +NAP. Stel dit per project bij op de juiste NAP indien nodig, of op 0!
+Eventuele positie ten opzichte van NAP kan ook bij 'reference levels' worden ingesteld.
 
 **Later bijstellen van het nulpunt**
 
