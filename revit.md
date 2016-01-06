@@ -54,6 +54,8 @@ Zoals eerder al aangegeven heeft het de voorkeur de eerste keer de coördinaten 
 In het Nationaal BIMhandboek wordt aangeraden een 0 punt indicator te plaatsen op het 0 punt om coördinatie tussen modellen te vereenvoudigen.
 In de onderstaande voorbeelden wordt een indicator gebruikt die een noordpijl en een piramide bevat waarbij de punt van de piramide het 0 punt is. 
 
+![nulpunt](https://raw.githubusercontent.com/BIM-Handboek-NL/Werken-met-een-nulpunt-template/master/img/revit_15.png)
+
 **Plaatsen nulpunt indicator:**
 
 Er zijn verschillende type bestanden die gebruikt kunnen worden om in Revit te inserten of te linken:
